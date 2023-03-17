@@ -1,0 +1,11 @@
+{
+    "[powershell]": {
+        "diffEditor.codeLens": true,
+        "files.encoding": "utf8bom",
+        "files.autoGuessEncoding": true
+    },
+    "[css]": {
+        "diffEditor.codeLens": true
+    },
+    
+}
